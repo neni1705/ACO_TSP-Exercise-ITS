@@ -2,7 +2,7 @@
 
 **Course:** SD234503 — Metode Optimasi Metaheuristik  
 **Dataset:** TSPLIB95 `eil76` (76 cities, optimum 538)  
-**Suggested duration:** 1 week  
+**Suggested duration:** 2 week  
 **Deliverables:** completed `.ipynb` notebook and a 2–3 page PDF report (or an equivalent Markdown report in the notebook).
 
 ## Objective
